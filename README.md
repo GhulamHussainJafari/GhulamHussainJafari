@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GhulamHussainJafari
-- 👀 I’m interested in programming, Hacking, crypto currency.
+- 👀 I’m interested in web developing and application .
 - 🌱 I’m currently learning web developing.
 - 💞️ I’m looking to collaborate on technology improvement.
 - 📫 How to reach me ...
